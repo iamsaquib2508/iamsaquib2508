@@ -3,9 +3,9 @@
 
 
 - 🔭 I’m currently working on: Building e-commerce website
-- 🌱 I’m currently learning: Django, System Design
+- 🌱 I’m currently learning: Django, ASP.NET, System Design
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with: Computer Security
+<!-- - 🤔 I’m looking for help with: Computer Security -->
 - 💬 Ask me about anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/md-mohaiminul-islam-226405132/)
 - ⚡ Fun fact: I can properly pronounce all Bangla letters (even চন্দ্রবিন্দু) 
