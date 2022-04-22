@@ -1,9 +1,9 @@
 # Hello there! Hiii! 👋
-## I'm Md. Mohaiminul Islam, studying in CSE, BUET.
+## I'm Md. Mohaiminul Islam, graduated from CSE, BUET.
 
 
-- 🔭 I’m currently working on: Building e-commerce website
-- 🌱 I’m currently learning: Django, ASP.NET, System Design
+<!-- - 🔭 I’m currently working on: Building e-commerce website -->
+- 🌱 I’m currently learning: NodeJS, ReactJS, System Design, Docker
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with: Computer Security -->
 - 💬 Ask me about anything!
