@@ -1,9 +1,8 @@
-# Hello there! Hiii! 👋
-## I'm Md. Mohaiminul Islam, graduated from CSE, BUET.
-
+# Hello there! 👋 I'm Md. Mohaiminul Islam
+## Working at Samsung R&D Institute, Bangladesh
 
 <!-- - 🔭 I’m currently working on: Building e-commerce website -->
-- 🌱 I’m currently learning: NodeJS, ReactJS, System Design, Docker
+<!-- - 🌱 I’m currently learning: NodeJS, ReactJS, System Design, Docker -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with: Computer Security -->
 - 💬 Ask me about anything!
