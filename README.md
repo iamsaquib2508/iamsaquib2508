@@ -1,5 +1,5 @@
 # Hello there! 👋 I'm Md Mohaiminul Islam
-## Pursuing Master's in CS & working as a TA at University of New Brunswick.
+## Completed Master's in CS & worked as a TA at University of New Brunswick.
 ## Former Software Engineer at Samsung R&D Institute, Bangladesh
 
 <!-- - 🔭 I’m currently working on: Building e-commerce website -->
